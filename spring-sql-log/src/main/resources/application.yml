@@ -1,7 +1,0 @@
-spring:
-  datasource:
-    druid:
-      url: jdbc:mysql://localhost:3306/mybatis_plus
-      username: root
-      password: 1qaz,2wsx
-      driver-class-name: com.mysql.jdbc.Driver
